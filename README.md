@@ -11,7 +11,7 @@ In proposed system crack in the tracks are detected by means of sensor and Ardui
 
 AUTHOR 🔗
 
-Pushkala.S - 
+Pushkala.S - https://github.com/Pushkala-S
 
 G.S.Ruparani - https://github.com/ruparani24
 
